@@ -1,0 +1,217 @@
+body{
+  font-family: "Montserrat";
+}
+h3{
+font-size: 1.5rem;
+}
+p{
+  font-family: "Ubuntu";
+  color: #8f8f8f;
+  font-style: italic;
+}
+.big-heading
+{
+
+  font-family: "Montserrat-Bold";
+  font-size: 4.5rem;
+  line-height: 1.5;
+  color: #fff;
+}
+
+h1,h2,h3,h4{
+  font-family: "Montserrat";
+}
+h2{
+
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+#title{
+  background-color: #D5A2F5;
+
+}
+.doggy{
+  transform: rotate(-20deg);
+  position: absolute;
+
+}
+.container-fluid
+{
+  padding: 3% 15% 7%;
+}
+.shop{
+  position: relative;
+  left: -20px;
+}
+.text{
+  position: relative;
+  left: 60px;
+}
+.btn1:hover{
+  background-color: grey;
+}
+.navbar
+{
+  padding-bottom:4.5rem;
+}
+.navbar-brand
+{
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+.nav-item
+{
+  padding: 0 18px;
+}
+.nav-link
+{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+}
+
+#features
+{
+padding: 7% 15%;
+background-color: #fff;
+position: relative;
+
+}
+#testimonials
+{
+padding: 7% 15%;
+  text-align: center;
+  background-color: #D5A2F5;
+  color: #fff;
+}
+
+#press{
+  background-color: #D5A2F5;
+  text-align: center;
+
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+.icon {
+  color: #ef8172;
+  margin: 1rem;
+}
+.icon:hover{
+  color: #F68EC2;
+}
+.imgdg{
+  margin: 0.5rem;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.btn:hover{
+  background-color: grey;
+
+}
+#pricing{
+  padding: 100px;
+}
+.pricing1{
+  padding: 50px;
+  text-align: center;
+}
+@media (max-width: 1028px){
+  #title{
+    text-align: center;
+  }
+  .doggy{
+    position: static;
+    transform: rotate(0);
+
+  }
+}
+#cta{
+  background-color: #F2B2ED;
+  color: #fff;
+  text-align: center;
+  padding: 7% 15%;
+
+}
+.cta-heading{
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 5rem;
+
+}
+.dog12{
+  line-height: 5rem;
+  padding-bottom: 3%;
+}
+.finalbtn{
+
+  text-align: center;
+
+}
+.social-icon{
+  margin: 20px 10px;
+}
+.cart{
+  position: relative;
+  top: -25px;
+  left: -29px;
+}
+.contact{
+  position: relative;
+  top: -19px;
+}
+.cont{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+  position: relative;
+  top: -59px;
+  left: 20px;
+  color: white;
+}
+.cart1{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+  position: relative;
+  top: -49px;
+  left: 17px;
+  color: white;
+}
+.shop{
+  position: relative;
+  top: -19px;
+}
+.shop1{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+  position: relative;
+  top: -57px;
+  left: 30px;
+  color: white;
+}
+.magnifier{
+  position: relative;
+  top: 20px;
+}
+.magnifier1{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+  position: relative;
+  top: 15px;
+  left: 10px;
+  color: white;
+}
+.alpha{
+  position: relative;
+  top:-30px;
+}
